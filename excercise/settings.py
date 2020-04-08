@@ -26,8 +26,8 @@ SECRET_KEY = 'h8!+_d13rf&3(ht53s=r2(oi-utoc5@+99zilm0+#3i@k((%=v'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'http://exercise-challenge-exercise-challenge.int.open.paas.redhat.com/'
-    '127.0.0.1'
+    'http://exercise-challenge-exercise-challenge.int.open.paas.redhat.com/',
+    '127.0.0.1',
 ]
 
 
