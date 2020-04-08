@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'http://exercise-challenge-exercise-challenge.int.open.paas.redhat.com/',
+    'exercise-challenge-exercise-challenge.int.open.paas.redhat.com',
     '127.0.0.1',
 ]
 
