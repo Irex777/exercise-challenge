@@ -25,7 +25,10 @@ SECRET_KEY = 'h8!+_d13rf&3(ht53s=r2(oi-utoc5@+99zilm0+#3i@k((%=v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'http://exercise-challenge-exercise-challenge.int.open.paas.redhat.com/'
+    '127.0.0.1'
+]
 
 
 # Application definition
